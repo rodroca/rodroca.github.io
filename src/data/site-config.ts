@@ -61,8 +61,9 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Github',
+            href: '/https://github.com/rodroca'
+
         }
     ],
     footerNavLinks: [
